@@ -1,6 +1,6 @@
 1. DFS
 2. BFS
-3. shortest path  : dijkstra, bellman ford, fload warshall. (sometime BFS if weight is same)
+3. shortest path  : dijkstra, bellman ford(negative weight cycle), fload warshall. (sometime BFS if weight is same)
 4. minimum spanning tree: prims, kruskal
 5. cycle detection:
 
@@ -8,3 +8,7 @@
     undirected graph
 6. Strongly connected component: Targan's algorithm, kosaraju algorithm
 7. topological sort
+8. bipartite graph
+9. DSU
+10. Articulation point/cut vertex
+
