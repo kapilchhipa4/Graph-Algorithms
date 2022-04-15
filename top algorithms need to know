@@ -5,7 +5,7 @@
 5. minimum spanning tree: prims, kruskal
 6. cycle detection:
 
-    directed graph : DFS,BFS both will work
+    directed graph : DFS,BFS both will work    already visited but this node is the parent node then there is a cycle
     undirected graph
 7. Strongly connected component: 
     Targan's algorithm
