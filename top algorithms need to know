@@ -1,14 +1,18 @@
 1. DFS
 2. BFS
-3. shortest path  : dijkstra, bellman ford(negative weight cycle), fload warshall. (sometime BFS if weight is same)
-4. minimum spanning tree: prims, kruskal
-5. cycle detection:
+3. connected component: undirected graph , each vertex is accessible from another vertex.
+4. shortest path  : dijkstra, bellman ford(negative weight cycle), fload warshall. (sometime BFS if weight is same)
+5. minimum spanning tree: prims, kruskal
+6. cycle detection:
 
-    directed graph : DFS, 
+    directed graph : DFS,BFS both will work
     undirected graph
-6. Strongly connected component: Targan's algorithm, kosaraju algorithm
-7. topological sort
-8. bipartite graph
-9. DSU
-10. Articulation point/cut vertex
+7. Strongly connected component: 
+    Targan's algorithm
+    kosaraju algorithm (two time DFS)
+    directed graph
+8. topological sort
+9. bipartite graph
+10. DSU
+11. Articulation point/cut vertex
 
